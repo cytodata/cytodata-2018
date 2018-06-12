@@ -1,0 +1,40 @@
+# Site settings
+baseURL = "http://cytodata.org/"
+languageCode = "en-us"
+title = "CytoData 2018"
+theme = "hugo-simpledoc-theme"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Top menu
+[[menu.top]]
+    name = "Register here!"
+    weight = 10
+    url = "https://broad.io/cytodata2018"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "CytoData 2018"
+    author = "Shantanu Singh"
+    keywords = "biology, computer vision, machine learning, drug discovery, high-content imaging, microscopy, bioinformatics, computational biology"
+    
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "CytoData 2018"
+    headerDescription = "![Cell Painting](/./main_files/cell-painting.jpg) We're honored to host the third CytoData Symposium and hackathon from Sep 21-25, 2018 at the Broad Institute, Cambridge, MA, USA! CytoData brings together the community of researchers mining microscopy image data. "
+    
+    # Back-to-top button name
+    bttButton = ""
+    
+    
+  
