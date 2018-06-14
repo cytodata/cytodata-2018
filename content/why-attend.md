@@ -25,7 +25,7 @@ Attendees will join together for a one-day symposium with seminars, lectures and
 <div id="mc_embed_signup">
 <form action="https://cytodata.us12.list-manage.com/subscribe/post?u=e41cec279afba75410ddd90bf&amp;id=d512c96d35" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">To keep up-to-date and get the latest information about the CytoData 2018 please subscribe to our mailing list</label>
+	<label for="mce-EMAIL">Subscribe to the mailing list for updates on CytoData 2018</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e41cec279afba75410ddd90bf_d512c96d35" tabindex="-1" value=""></div>
