@@ -15,3 +15,24 @@ We recently formed the CytoData society (CytoDS) to build and maintain an active
 
 Attendees will join together for a one-day symposium with seminars, lectures and social events followed by a two-day hackathon. We aspire to gather a diverse and engaged group of both, image-based profiling experts, and members of related fields. Everyone involved will be an active contributor (even if remote), no passive absorption of others’ ideas allowed! We assume participants will be willing to share their analysis strategies, given that each laboratory’s “competitive advantage” in this field does not come from their data pre-processing pipeline but rather from computational techniques downstream of the steps covered in the event, and from biological discoveries derived from their unique data. 
 
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://cytodata.us12.list-manage.com/subscribe/post?u=e41cec279afba75410ddd90bf&amp;id=d512c96d35" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">To keep up-to-date and get the latest information about the CytoData 2018 please subscribe to our mailing list</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e41cec279afba75410ddd90bf_d512c96d35" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
