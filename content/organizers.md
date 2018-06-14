@@ -5,7 +5,7 @@ anchor: "organizers"
 weight: 4
 ---
 
-## Team
+## Committee
 <img src="/./organizers_files/tbecker.png" alt="Tim Becker" width="300px" height="300px"/>
 General Chair: [Tim Becker](https://twitter.com/cells2numbers)
 
