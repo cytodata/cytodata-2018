@@ -6,7 +6,7 @@ weight: 2
 ---
 
 **Fri 9/21 Full day Symposium**
-- Get in touch with leading researchers in the field from industry and academia
+- Get in touch with leading researchers in the field from industry and academia. Speaker line up t.b.a.
 
 **Mon 9/24 CytoData Hackathon - Day 1**  
 - Community-driven project, more t.b.a.
