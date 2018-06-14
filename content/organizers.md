@@ -6,10 +6,10 @@ weight: 4
 ---
 
 ## Committee
-<img src="/./organizers_files/tbecker.png" alt="Tim Becker" width="300px" height="300px"/>
+<img src="/./organizers_files/tbecker.png" alt="Tim Becker" width="200px" height="200px"/>
 General Chair: [Tim Becker](https://twitter.com/cells2numbers)
 
-<img src="/./organizers_files/jeanelle.jpg" alt="Jeanelle Ackerman" width="300px" height="300px"/>
+<img src="/./organizers_files/jeanelle.jpg" alt="Jeanelle Ackerman" width="200px" height="200px"/>
 Administrator: Jeanelle Ackerman
 
 ##  Society
