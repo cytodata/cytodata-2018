@@ -6,7 +6,7 @@ weight: 3
 ---
 
 ## Funding
-The Each participant should plan to finance their own travel and lodging (exception: some support can be provided for attendees from under-represented groups; please contact us at <cytodata.info@gmail.com>). Please note that space is limited in order to maintain high levels of engagement.
+Each participant should plan to finance their own travel and lodging (exception: some support can be provided for attendees from under-represented groups; please contact us at <cytodata.info@gmail.com>). Please note that space is limited in order to maintain high levels of engagement.
 
 ## Transportation
 The closest airport is Boston Logan Airport (BOS). The Broad Institute is accessible by the MBTA red line at the Kendall/MIT stop.
