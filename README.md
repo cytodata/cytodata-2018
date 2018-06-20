@@ -1,3 +1,2 @@
-# cytodata-2018
+# CytoData 2018 website
 
-https://cytodata2018.netlify.com
