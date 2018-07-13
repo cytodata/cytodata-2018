@@ -7,7 +7,7 @@ weight: 1
 
 As in previous years ([2016](http://2016.cytodata.org), [2017](http://2017.cytodata.org)), CytoData brings together the community of researchers mining microscopy image data. This community has gained a lot of momentum over the last couple of years and shifted from proof-of-principle work to making biological discoveries. Collectively, we have gathered and continue to build on tremendous knowledge and insights into this challenging field!
 
-We recently formed the CytoData Society (CytoDS) to build and maintain an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems. CytoData 2018 will be great venue to connect with this community, exchange ideas, and learn from experts in the field.
+We recently formed the CytoData Society ([CytoDS](http://society.cytodata.org)) to build and maintain an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems. CytoData 2018 will be great venue to connect with this community, exchange ideas, and learn from experts in the field.
 
 <p align="center">
 <img  src="/./why-attend_files/genets-taorf-cdp.png" alt="Gene networks derived from image-based profiles" width="50%"/>
