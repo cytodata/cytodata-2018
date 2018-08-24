@@ -5,10 +5,31 @@ anchor: "sponsors"
 weight: 2
 ---
 
-- Perkin Elmer (Gold Sponsors)
-- Recursion Pharmaceuticals  (Silver Sponsors)
-- Janssen Pharmaceutica (Silver Sponsors)
-- Phenomic AI (Bronze Sponsors)
+## Gold sponsor
+![Perkin Elmer][perkin_elmer_logo] 
+Perkin Elmer
 
-- Nvidia (Hackathon prizes)
+## Silver Sponsors
+
+![Recursion Pharmaceuticals][recursion_logo] 
+Recursion Pharmaceuticals
+
+![Janssen Pharmaceutica][janssen_logo] 
+Janssen Pharmaceutica 
+
+## Bronze Sponsors
+
+![Phenomic AI][phenomicai_logo] 
+Phenomic AI
+
+## Prizes
+
+![Nvidia][nvidia_logo] 
+Nvidia
+
+[perkin_elmer_logo]: /./sponsors_files/icon48.png
+[recursion_logo]: /./sponsors_files/icon48.png
+[janssen_logo]: /./sponsors_files/icon48.png
+[phenomicai_logo]: /./sponsors_files/icon48.png
+[nvidia_logo]: /./sponsors_files/icon48.png
 
