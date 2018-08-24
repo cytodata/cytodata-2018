@@ -7,13 +7,14 @@ weight: 2
 
 **Fri Sep 21 Full day Symposium**
 Get in touch with leading researchers in the field from industry and academia.
-- Speaker line up:
-  - Todd Golub, Broad Institute
-  - Arvind Rao, MD Anderson
-  - John Doench, Broad Institute
-  - Anne Carpenter, Broad Institute
-  - Jeremy Jenkins, Novartis Institutes for Biomedical Research
-  - Sam Cooper and Oren Kraus, Phenomic AI
+
+Speaker line up:
+- Todd Golub, Broad Institute
+- Arvind Rao, MD Anderson
+- John Doench, Broad Institute
+- Anne Carpenter, Broad Institute
+- Jeremy Jenkins, Novartis Institutes for Biomedical Research
+- Sam Cooper and Oren Kraus, Phenomic AI
 
 **Mon Sep 24 CytoData Hackathon - Day 1**  
 Community-driven project, more t.b.a.
