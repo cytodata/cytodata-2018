@@ -2,7 +2,7 @@
 title: "Sponsors"
 date: 2018-08-24T14:25:29-04:00
 anchor: "sponsors"
-weight: 1.5
+weight: 2
 ---
 
 - Perkin Elmer (Gold Sponsors)

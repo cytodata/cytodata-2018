@@ -2,7 +2,7 @@
 title: "Logistics"
 date: 2018-06-12T15:54:06-04:00
 anchor: "logistics"
-weight: 3
+weight: 4
 ---
 
 ## Funding

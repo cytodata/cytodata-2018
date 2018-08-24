@@ -2,7 +2,7 @@
 title: "Organizers"
 date: 2018-06-12T15:55:45-04:00
 anchor: "organizers"
-weight: 4
+weight: 5
 ---
 
 ## Committee

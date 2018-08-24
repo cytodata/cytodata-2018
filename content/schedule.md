@@ -2,7 +2,7 @@
 title: "Schedule"
 date: 2018-06-12T15:33:52-04:00
 anchor: "schedule"
-weight: 2
+weight: 3
 ---
 
 **Fri Sep 21 Full day Symposium**
