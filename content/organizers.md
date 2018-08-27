@@ -2,7 +2,7 @@
 title: "Organizers"
 date: 2018-06-12T15:55:45-04:00
 anchor: "organizers"
-weight: 5
+weight: 6
 ---
 
 ## Conference Committee

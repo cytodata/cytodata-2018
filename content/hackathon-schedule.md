@@ -1,46 +1,21 @@
 ---
-title: "Schedule"
+title: "Hackathon Schedule"
 date: 2018-06-12T15:33:52-04:00
-anchor: "schedule"
-weight: 3
+anchor: "hackathon-schedule"
+weight: 4
 ---
 
-**Fri Sep 21 Full day Symposium**
-Hear from leading researchers in the field from industry and academia (below)
-
-**Mon Sep 24 CytoData Hackathon - Day 1**  
-Get oriented, and starting working on the first stage of the challenge
-
-**Tue Sep 25 CytoData Hackathon - Day 2**  
-Refine models using second stage of the challenge, then evaluate on held out set. 
-Winners will be announced based on the held out set.
-
-## CytoData Symposium
-
-Schedule t.b.a
-
-Speaker line up:
-- Todd Golub, Broad Institute
-- Arvind Rao, MD Anderson
-- Greg Johnson, Allen Institute for Cell Science
-- John Doench, Broad Institute
-- Anne Carpenter, Broad Institute
-- Jeremy Jenkins, Novartis Institutes for Biomedical Research
-- Sam Cooper and Oren Kraus, Phenomic AI
-
-## CytoData Hackathon
-
-### Goal
+## Goal
 Analyze and compare available methods for matching morphological signatures across different experiments or across data sets from different labs.
 
-### Problem and challenges
+## Problem and challenges
 Imagine two different institutions collaborating in a research study: Lab A and Lab B. These two labs want to create image-based profiles of genes and compounds. Each lab profiles a different set of perturbations, including positive and negative controls, plus other perturbations of interest to each lab. They then want to compare the effect of all perturbations across the experiments run in both labs. How can they achieve this, given that there may be differences in the experiment conditions?
 
 The CytoData 2018 Challenge is to come up with methodologies to match image-based profiles across datasets. Participants will be provided with image-based profiles coming from different sources and having overlapping perturbations. As the profiles come from different sources, the signature embeddings may have implicit biases reflecting differences in microscope equipment, batch effects, experimental conditions, and even cell lines. We assume that these differences are irrelevant to the underlying biological process, and should not dominate the observed signal.
 
 Participants of the CytoData 2018 Challenge will team up with other fellow scientists to improve cross-dataset signature recall. Their goal is to refine, normalize and transform image-based features using machine learning or statistical approaches to remove the effect of experimental artifacts. Successful methodologies will accurately cluster the data in holdout sets. An effective solution to this problem will help make image-based profiling workflows more robust and reusable at a large scale.
 
-### Challenge format
+## Challenge format
 
 **Before the challenge: From now until Sept 21, 2018**
 

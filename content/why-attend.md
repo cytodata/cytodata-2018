@@ -15,6 +15,16 @@ We recently formed the CytoData Society ([CytoDS](http://society.cytodata.org)) 
 
 Attendees will join together for a one-day symposium with seminars, lectures and social events followed by a two-day hackathon. We aspire to gather a diverse and engaged group of both image-based profiling experts, and members of related fields. Everyone involved will be an active contributor (even if remote), no passive absorption of others’ ideas allowed! We assume participants will be willing to share their analysis strategies, given that each laboratory’s “competitive advantage” in this field does not come from their data pre-processing pipeline but rather from computational techniques downstream of the steps covered in the event, and from biological discoveries derived from their unique data. 
 
+**Fri Sep 21 Full day Symposium**
+Hear from leading researchers in the field from industry and academia.
+
+**Mon Sep 24 CytoData Hackathon - Day 1**  
+Get oriented, and starting working on the first stage of the challenge.
+
+**Tue Sep 25 CytoData Hackathon - Day 2**  
+Refine models using second stage of the challenge, then evaluate on held out set. 
+Winners will be announced based on the held out set.
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
