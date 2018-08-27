@@ -5,12 +5,23 @@ anchor: "organizers"
 weight: 5
 ---
 
-## Committee
-<img src="/./organizers_files/tbecker.png" alt="Tim Becker" width="200px" height="200px"/>
+## Conference Committee
 General Chair: [Tim Becker](https://twitter.com/cells2numbers)
-
-<img src="/./organizers_files/jeanelle.jpg" alt="Jeanelle Ackerman" width="200px" height="200px"/>
 Administrator: Jeanelle Ackerman
+
+### CytoData Society Board
+
+Past president: [Anne Carpenter](https://twitter.com/DrAnneCarpenter)
+President: [Shantanu Singh](https://twitter.com/snhantau)
+Vice President: [Florian Heigwer](https://twitter.com/FlorianHeigwer)
+Event officer: [Sam Cooper](https://twitter.com/sam_o_cooper)
+Communications officer: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
+Industry liaison: [Alex Vasilevich](https://www.linkedin.com/in/aliakseivasilevich/)
+Operations officer: [Rabia Khan](https://twitter.com/rabiatkhan)
+Education/ outreach officer: [Juan Caicedo](https://twitter.com/jccaicedo)
+Treasurer: [Lassi Paavolainen](https://twitter.com/Lastu21)
+Society liaison: [Oren Kraus](https://twitter.com/orenkraus)
+Resource officer: [Lassi Paavolainen](https://twitter.com/Lastu21)
 
 ##  Society
 
