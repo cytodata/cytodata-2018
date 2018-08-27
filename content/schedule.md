@@ -11,6 +11,7 @@ Get in touch with leading researchers in the field from industry and academia.
 Speaker line up:
 - Todd Golub, Broad Institute
 - Arvind Rao, MD Anderson
+- Greg Johnson, Allen Institute for Cell Science
 - John Doench, Broad Institute
 - Anne Carpenter, Broad Institute
 - Jeremy Jenkins, Novartis Institutes for Biomedical Research
