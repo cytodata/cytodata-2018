@@ -9,10 +9,11 @@ weight: 3
 Hear from leading researchers in the field from industry and academia (below)
 
 **Mon Sep 24 CytoData Hackathon - Day 1**  
-Community-driven project (below)
+Get oriented, and starting working on the first stage of the challenge
 
 **Tue Sep 25 CytoData Hackathon - Day 2**  
-Profiling challenge - we will hack in teams and compete in a CytoData challenge! Details t.b.a.
+Refine models using second stage of the challenge, then evaluate on held out set. 
+Winners will be announced based on the held out set.
 
 ## CytoData Symposium
 
@@ -27,7 +28,7 @@ Speaker line up:
 - Jeremy Jenkins, Novartis Institutes for Biomedical Research
 - Sam Cooper and Oren Kraus, Phenomic AI
 
-## CytoData Hackathon - Community driven project
+## CytoData Hackathon
 
 ### Goal
 Analyze and compare available methods for matching morphological signatures across different experiments or across data sets from different labs.
