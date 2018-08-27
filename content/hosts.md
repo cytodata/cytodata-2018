@@ -2,7 +2,7 @@
 title: "Hosts"
 date: 2018-06-12T15:55:45-04:00
 anchor: "hosts"
-weight: 5
+weight: 7
 ---
 ![Carpenter Lab](/./hosts_files/carpenterlab.jpg)
 
