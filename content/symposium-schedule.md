@@ -29,3 +29,4 @@ weight: 3
 | 3:30 - 4:00 | | tbd | John Doench | Broad Institute  |
 | 4:00 - 4:30 | |Learning from high content images of tool compounds  | Jeremy Jenkins | Novartis |
 | 4:30 - 5:30 | |  | Highlight Talks   |  |
+|5:30 - 5:45 || closing remarks|||
