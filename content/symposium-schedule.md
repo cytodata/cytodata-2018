@@ -10,7 +10,7 @@ weight: 3
 
 ## Session 1
 9:00 - 9:30
-*tbd*. Anne Carpenter, Broad Institute.
+*Fighting disease with image-based profiling*. Anne Carpenter, Broad Institute.
 
 9:30 - 10:00
 *New 3D Analysis Tools for High-Content Screening*, Alexander Schreiner, Perkin Elmer.
