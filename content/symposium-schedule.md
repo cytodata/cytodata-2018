@@ -68,4 +68,14 @@ for BioMedical Research.
 
 5:15 - 5:30	Steven Vermeulen, MERLN-cBITE.
 
-5:30 - 5:45 **Closing remarks**
+## Closing remarks
+
+5:30 - 5:45
+
+## Social event sponsored by PerkinElmer
+
+6:00 - 9:00 CytoData Post-Symposium appetizer hour at [Meadhall](https://themeadhall.com/)
+
+
+
+
