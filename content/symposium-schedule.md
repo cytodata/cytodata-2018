@@ -16,7 +16,7 @@ weight: 3
 *New 3D Analysis Tools for High-Content Screening*, Alexander Schreiner, Perkin Elmer.
 
 10:00 - 10:30
-*tbd*, Todd Golub, Broad Institute.
+*A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles*, Todd Golub, Broad Institute.
 
 10:30 - 11:00
 Coffee break
@@ -55,10 +55,27 @@ Coffee break
 *Large-scale CRISPR screens: getting past viability*, John Doench, Broad Institute.
 
 4:00 - 4:30
-*Learning from high content images of tool compounds*, Jeremy Jenkins, Novartis.
+*Learning from high content images of tool compounds*, Jeremy Jenkins, Novartis Institutes 
+for BioMedical Research.
 
-4:30 - 5:30
-Highlight talks.
+## Session 5 Highlight Talks
+
+4:30 - 4:45	Adam Arany, KU Leuven.
+
+4:45 - 5:00	Rebecca Hughes, Univ. of Edinburgh.
+
+5:00 - 5:15	Florian Heigwer, DKFZ.
+
+5:15 - 5:30	Steven Vermeulen, MERLN-cBITE.
+
+## Closing remarks
 
 5:30 - 5:45
-Closing remarks.
+
+## Social event sponsored by PerkinElmer
+
+6:00 - 9:00 CytoData Post-Symposium appetizer hour at [Meadhall](https://themeadhall.com/)
+
+
+
+
