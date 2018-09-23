@@ -5,15 +5,6 @@ anchor: "hackathon-schedule"
 weight: 4
 ---
 
-9-10 	describe challenge, explain data sets, show sample, explain metric 
-10-12 	hack hack hack 
-12-13 	hack - lunch break - hack 
-13-16 	hack hack hack 
-16-17 	final evaluation, presentation ceremony 
-17 - ? 	After hackathon party :) 
-
-
-
 ## Day 1 (Monday Sep 23)
 8:30 - 9:00
 Breakfast 
