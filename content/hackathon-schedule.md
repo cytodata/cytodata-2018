@@ -5,23 +5,43 @@ anchor: "hackathon-schedule"
 weight: 4
 ---
 
-## Goal
-Analyze and compare available methods for matching morphological signatures across different experiments or across data sets from different labs.
+The hackathon will be held in the Yellowstone room on the 2nd floor of the Broad building at 415 Main St, Cambridge, 02142. You don't need Broad access to get to the 2nd floor. Let the security know you are attending CytoData. If you are stuck, connect to the Broad wifi (it is open) and [Slack](https://broad.io/cytodata_slack) us :) 
 
-## Problem and challenges
-Imagine two different institutions collaborating in a research study: Lab A and Lab B. These two labs want to create image-based profiles of genes and compounds. Each lab profiles a different set of perturbations, including positive and negative controls, plus other perturbations of interest to each lab. They then want to compare the effect of all perturbations across the experiments run in both labs. How can they achieve this, given that there may be differences in the experiment conditions?
+## Day 1 (Monday Sep 23)
+8:30 - 9:00
+Breakfast 
 
-The CytoData 2018 Challenge is to come up with methodologies to match image-based profiles across datasets. Participants will be provided with image-based profiles coming from different sources and having overlapping perturbations. As the profiles come from different sources, the signature embeddings may have implicit biases reflecting differences in microscope equipment, batch effects, experimental conditions, and even cell lines. We assume that these differences are irrelevant to the underlying biological process, and should not dominate the observed signal.
+9:00 - 10:00
+Understand the challenge, datasets, and the metric.
 
-Participants of the CytoData 2018 Challenge will team up with other fellow scientists to improve cross-dataset signature recall. Their goal is to refine, normalize and transform image-based features using machine learning or statistical approaches to remove the effect of experimental artifacts. Successful methodologies will accurately cluster the data in holdout sets. An effective solution to this problem will help make image-based profiling workflows more robust and reusable at a large scale.
+10:00 - 17:00 
+Hackathon session
+
+12:00 - 13:00 
+Lunch will be served
+
+17:00
+Head out for dinner – details to follow.
+
+
+## Day 2 (Tuesday Sep 24)
+8:30 - 9:00
+Breakfast 
+
+9:00 - 10:00
+Familiarize yourselves with the new dataset
+
+10:00 - 17:00 
+Hackathon session
+
+12:00 - 13:00 
+Lunch will be served
+
+16:00 - 17:00
+Final evaluation and presentations.
+
 
 ## Challenge format
-
-**Before the challenge: From now until Sept 21, 2018**
-
-Participants will be invited to contribute ideas towards a solution, in the form of methods, relevant literature, and other relevant material. Participants are encouraged to engage in a conversation to understand other’s ideas, point out potential problems and solutions, and post comments and other ideas.
-
-This will be moderated through a GitHub repository, with readme files, contributors, issues and other software development practices.
 
 **During the challenge: Sep 24 and 25, 2018**
 
