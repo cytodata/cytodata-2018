@@ -5,6 +5,8 @@ anchor: "hackathon-schedule"
 weight: 4
 ---
 
+The hackathon will be held in the Yellowstone room on the 2nd floor of the Broad building at 415 Main St, Cambridge, 02142. You don't need Broad access to get to the 2nd floor. Let the security know you are attending CytoData. If you are stuck, connect to the Broad wifi (it is open) and [Slack](https://broad.io/cytodata_slack) us :) 
+
 ## Day 1 (Monday Sep 23)
 8:30 - 9:00
 Breakfast 
