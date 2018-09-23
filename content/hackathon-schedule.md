@@ -5,23 +5,50 @@ anchor: "hackathon-schedule"
 weight: 4
 ---
 
-## Goal
-Analyze and compare available methods for matching morphological signatures across different experiments or across data sets from different labs.
+9-10 	describe challenge, explain data sets, show sample, explain metric 
+10-12 	hack hack hack 
+12-13 	hack - lunch break - hack 
+13-16 	hack hack hack 
+16-17 	final evaluation, presentation ceremony 
+17 - ? 	After hackathon party :) 
 
-## Problem and challenges
-Imagine two different institutions collaborating in a research study: Lab A and Lab B. These two labs want to create image-based profiles of genes and compounds. Each lab profiles a different set of perturbations, including positive and negative controls, plus other perturbations of interest to each lab. They then want to compare the effect of all perturbations across the experiments run in both labs. How can they achieve this, given that there may be differences in the experiment conditions?
 
-The CytoData 2018 Challenge is to come up with methodologies to match image-based profiles across datasets. Participants will be provided with image-based profiles coming from different sources and having overlapping perturbations. As the profiles come from different sources, the signature embeddings may have implicit biases reflecting differences in microscope equipment, batch effects, experimental conditions, and even cell lines. We assume that these differences are irrelevant to the underlying biological process, and should not dominate the observed signal.
 
-Participants of the CytoData 2018 Challenge will team up with other fellow scientists to improve cross-dataset signature recall. Their goal is to refine, normalize and transform image-based features using machine learning or statistical approaches to remove the effect of experimental artifacts. Successful methodologies will accurately cluster the data in holdout sets. An effective solution to this problem will help make image-based profiling workflows more robust and reusable at a large scale.
+## Day 1 (Monday Sep 23)
+8:30 - 9:00
+Breakfast 
+
+9:00 - 10:00
+Understand the challenge, datasets, and the metric.
+
+10:00 - 17:00 
+Hackathon session
+
+12:00 - 13:00 
+Step out for [lunch](https://menu.cloverfoodlab.com/current_menu/cloverknd) at [Clover](https://goo.gl/maps/H9ZZTQv3LST2). Be sure to pick up your Clover gift cards before heading out.
+
+17:00
+Head out for dinner – details to follow.
+
+
+## Day 2 (Tuesday Sep 24)
+8:30 - 9:00
+Breakfast 
+
+9:00 - 10:00
+Familiarize yourselves with the new dataset
+
+10:00 - 17:00 
+Hackathon session
+
+12:00 - 13:00 
+Step out for [lunch](https://order.chipotle.com/Meal/Index/1615?showloc=1&_ga=2.65892910.1052497610.1537732055-422943557.1535556777) at [Chipotle](https://goo.gl/maps/4kAPi9ctMG52). Be sure to pick up your Chipotle gift cards before heading out.
+
+16:00 - 17:00
+Final evaluation and presentations.
+
 
 ## Challenge format
-
-**Before the challenge: From now until Sept 21, 2018**
-
-Participants will be invited to contribute ideas towards a solution, in the form of methods, relevant literature, and other relevant material. Participants are encouraged to engage in a conversation to understand other’s ideas, point out potential problems and solutions, and post comments and other ideas.
-
-This will be moderated through a GitHub repository, with readme files, contributors, issues and other software development practices.
 
 **During the challenge: Sep 24 and 25, 2018**
 
