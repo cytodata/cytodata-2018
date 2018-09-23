@@ -18,7 +18,7 @@ Understand the challenge, datasets, and the metric.
 Hackathon session
 
 12:00 - 13:00 
-Step out for [lunch](https://menu.cloverfoodlab.com/current_menu/cloverknd) at [Clover](https://goo.gl/maps/H9ZZTQv3LST2). Be sure to pick up your Clover gift cards before heading out.
+Lunch will be served
 
 17:00
 Head out for dinner – details to follow.
@@ -35,7 +35,7 @@ Familiarize yourselves with the new dataset
 Hackathon session
 
 12:00 - 13:00 
-Step out for [lunch](https://order.chipotle.com/Meal/Index/1615?showloc=1&_ga=2.65892910.1052497610.1537732055-422943557.1535556777) at [Chipotle](https://goo.gl/maps/4kAPi9ctMG52). Be sure to pick up your Chipotle gift cards before heading out.
+Lunch will be served
 
 16:00 - 17:00
 Final evaluation and presentations.
