@@ -14,7 +14,10 @@ Breakfast
 9:00 - 10:00
 Understand the challenge, datasets, and the metric.
 
-10:00 - 17:00 
+10:00 - 11:00 
+Hands-on session
+
+11:00 - 17:00 
 Hackathon session
 
 12:00 - 13:00 
@@ -31,14 +34,18 @@ Breakfast
 9:00 - 10:00
 Familiarize yourselves with the new dataset
 
-10:00 - 17:00 
+10:00 - 16:00 
 Hackathon session
 
 12:00 - 13:00 
 Lunch will be served
 
-16:00 - 17:00
-Final evaluation and presentations.
+16:00 - 16:30
+Final submission
+
+16:30 - 17:15
+Team presentations and winner announcement
+
 
 
 ## Challenge format
