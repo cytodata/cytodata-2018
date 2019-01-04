@@ -13,11 +13,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   smartlists = true
   extensions = ["hardLineBreak"]
 
-# Top menu
-[[menu.top]]
-    name = "Register here!"
-    weight = 10
-    url = "https://broad.io/cytodata2018"
+## Top menu
+#[[menu.top]]
+#    name = "Register here!"
+#    weight = 10
+#    url = "https://broad.io/cytodata2018"
 
 # Site parameters
 [params]
