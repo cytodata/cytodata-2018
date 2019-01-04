@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # If not set, site title and meta description will be shown.
     # You may use markdown here
     headerTitle = "CytoData 2018"
-    headerDescription = "![CytoData banner](/./main_files/cytodata-banner.png) We were honored to host the third CytoData Symposium and hackathon from **Sep 21-25, 2018** at the Broad Institute, Cambridge, MA, USA! CytoData brings together the community of researchers mining microscopy image data. Next up – CytoData 2019 Europe. Details will be announced in Feb 2019."
+    headerDescription = "![CytoData banner](/./main_files/cytodata-banner.png) We were honored to host the third CytoData Symposium and hackathon from **Sep 21-25, 2018** at the Broad Institute, Cambridge, MA, USA! CytoData brings together the community of researchers mining microscopy image data. Next up – CytoData 2019 in Europe! Details will be announced in Feb 2019."
     
     # Back-to-top button name
     bttButton = ""
