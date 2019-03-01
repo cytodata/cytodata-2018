@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://cytodata.org/"
+baseURL = "http://2018.cytodata.org/"
 languageCode = "en-us"
 title = "CytoData 2018"
 theme = "hugo-simpledoc-theme"
